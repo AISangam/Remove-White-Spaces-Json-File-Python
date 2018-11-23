@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "patterns": [
+        "I want to talk to you",
+        "Please communicate with me"
+      ],
+      "responses": [
+        "Hello, thanks for visiting",
+        "Good to see you again",
+        "Hi there, how can I help?"
+      ],
+      "tag": "communicate"
+    }
+  ]
+}
